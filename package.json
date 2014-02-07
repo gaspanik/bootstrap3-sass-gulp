@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap3-sass-gulp",
+  "version": "0.0.1",
+  "description": "Bootstrap 3 Sass with Gulpjs",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp-rename": "~1.0.0",
+    "gulp-ruby-sass": "~0.3.0",
+    "gulp-minify-css": "~0.3.0",
+    "gulp": "~3.5.2"
+  }
+}
